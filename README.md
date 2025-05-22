@@ -6,8 +6,7 @@ The main functions included in the game are:
 4. changePlayer()
 5. checkWinner()
 6. restartGame()
-
-These functions are utilised throughout the game and ensure the working. 
+These functions are utilised throughout the game and ensure the working of the game, the requirements to play are minimal and just clicking on the html file should allow for the code to run.
 
 ## Demonstration
 <img width="285" alt="Screenshot 2025-05-21 at 12 07 44 PM" src="https://github.com/user-attachments/assets/6e7bff43-5c33-4fe2-9724-ced0d61c1662" />
